@@ -1,0 +1,25 @@
+
+/* Styling for all the input elements. */
+input {
+  width: 150px;
+  height: 100px;
+  font-size: 75px;
+  margin: 10px;
+border-radius: 10px;
+  background-color: #000;
+  color: #fff;
+  border-style: none;
+}
+
+/* Positioning the calculator/ form. */
+#calform{
+    margin-left: 225px;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-right: 158px;
+    margin-top: 20px;
+}
